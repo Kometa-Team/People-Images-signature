@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - C (598 Images)
+# Kometa People Images - Signature (signature) - C (599 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -154,6 +154,7 @@
 * [Chad Rook](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chad%20Rook.jpg)
 * [Chad Stahelski](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chad%20Stahelski.jpg)
 * [Chadwick Boseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chadwick%20Boseman.jpg)
+* [Chafurin](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chafurin.jpg)
 * [Chaim Topol](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chaim%20Topol.jpg)
 * [Chance Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chance%20Kelly.jpg)
 * [Chandler Head](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chandler%20Head.jpg)
