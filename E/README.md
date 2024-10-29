@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - E (333 Images)
+# Kometa People Images - Signature (signature) - E (334 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/E.G.%20Marshall.jpg)
@@ -280,6 +280,7 @@
 * [Ernest Tidyman](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Ernest%20Tidyman.jpg)
 * [Ernie Hudson](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Ernie%20Hudson.jpg)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Ernie%20Reyes%20Jr..jpg)
+* [Ernst Lubitsch](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Ernst%20Lubitsch.jpg)
 * [Errol Flynn](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Errol%20Flynn.jpg)
 * [Esai Daniel Cross](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Esai%20Daniel%20Cross.jpg)
 * [Esben Dalgaard Andersen](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/E/Images/Esben%20Dalgaard%20Andersen.jpg)
