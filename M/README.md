@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - M (876 Images)
+# Kometa People Images - Signature (signature) - M (877 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -161,6 +161,7 @@
 * [Marian Lorencik](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Marian%20Lorencik.jpg)
 * [Mariana Mazza](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Mariana%20Mazza.jpg)
 * [Mariangela Giordano](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Mariangela%20Giordano.jpg)
+* [Mariann Hole](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Mariann%20Hole.jpg)
 * [Marianna Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Marianna%20Hill.jpg)
 * [Marianne Muellerleile](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Marianne%20Muellerleile.jpg)
 * [Marianne Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/M/Images/Marianne%20Wibberley.jpg)
