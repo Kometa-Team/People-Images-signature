@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - T (538 Images)
+# Kometa People Images - Signature (signature) - T (539 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/T.%20J.%20Miller.jpg)
@@ -144,6 +144,7 @@
 * [Terry Gilliam](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20Gilliam.jpg)
 * [Terry Ingram](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20Ingram.jpg)
 * [Terry Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20Jones.jpg)
+* [Terry McGurrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20McGurrin.jpg)
 * [Terry Notary](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20Notary.jpg)
 * [Terry O'Quinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20O%27Quinn.jpg)
 * [Terry Rossio](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/T/Images/Terry%20Rossio.jpg)
