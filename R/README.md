@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - R (712 Images)
+# Kometa People Images - Signature (signature) - R (713 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -508,6 +508,7 @@
 * [Rodrigo Sorogoyen](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Rodrigo%20Sorogoyen.jpg)
 * [Rodrigo Teixeira](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Rodrigo%20Teixeira.jpg)
 * [Rodrigo de la Serna](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Rodrigo%20de%20la%20Serna.jpg)
+* [Rogelio A. Gonzalez](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Rogelio%20A.%20Gonz%C3%A1lez.jpg)
 * [Roger Allam](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Roger%20Allam.jpg)
 * [Roger Avary](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Roger%20Avary.jpg)
 * [Roger Birnbaum](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/R/Images/Roger%20Birnbaum.jpg)
