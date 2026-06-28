@@ -1,4 +1,4 @@
-# Kometa People Images - Signature (signature) - C (816 Images)
+# Kometa People Images - Signature (signature) - C (817 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -324,6 +324,7 @@
 * [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chaske%20Spencer.jpg)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chazz%20Palminteri.jpg)
 * [Checco Zalone](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Checco%20Zalone.jpg)
+* [Cheech & Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Cheech%20%26%20Chong.jpg)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Cheech%20Marin.jpg)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chekesha%20Van%20Putten.jpg)
 * [Chelcie Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/Chelcie%20Ross.jpg)
