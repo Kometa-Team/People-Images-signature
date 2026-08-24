@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - B (656 Images)
-![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/B/Images/B.J.%20Penn.jpg)

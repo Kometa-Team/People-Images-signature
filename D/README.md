@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - D (801 Images)
-![Grid](grid.jpg)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/D/Images/D.%20A.%20Pennebaker.jpg)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/D/Images/D.%20David%20Morin.jpg)

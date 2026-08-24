@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - P (514 Images)
-![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/P/Images/P.J.%20Byrne.jpg)

@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - L (573 Images)
-![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/L/Images/L.%20Scott%20Caldwell.jpg)

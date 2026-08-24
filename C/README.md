@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - C (820 Images)
-![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/C/Images/C.%20S.%20Forester.jpg)

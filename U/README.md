@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - U (33 Images)
-![Grid](grid.jpg)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/U/Images/Uchida%20Maaya.jpg)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/U/Images/Uchida%20Yuuma.jpg)

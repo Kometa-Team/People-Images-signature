@@ -1,5 +1,4 @@
 # Kometa People Images - Signature (signature) - H (345 Images)
-![Grid](grid.jpg)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/H/Images/H.%20G.%20Wells.jpg)
