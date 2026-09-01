@@ -1,5 +1,6 @@
-# Kometa People Images - Signature (signature) - Q (12 Images)
+# Kometa People Images - Signature (signature) - Q (13 Images)
 
+* [Qi Tianqing](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/Q/Images/Qi%20Tianqing.jpg)
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/Q/Images/Quentin%20Dupieux.jpg)
 * [Quentin Tarantino Movies](https://raw.githubusercontent.com/Kometa-Team/People-Images-signature/master/Q/Images/Quentin%20Tarantino%20Movies.jpg)
